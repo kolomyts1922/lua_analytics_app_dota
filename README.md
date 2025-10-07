@@ -25,3 +25,6 @@
 - **AI Recommendations** — smart tips for improving gaming skills
 
 **Purpose:** Help Dota 2 players improve their gameplay through analysis of data from thousands of professional and ranked matches.
+
+
+[![GitHub release](https://img.shields.io/github/release/kolomyts1922/lua_analytics_app_dota.svg)](https://github.com/kolomyts1922/lua_analytics_app_dota/releases)
